@@ -37,4 +37,9 @@ public void loginWithValidCredentialsTest() throws EncryptedDocumentException, I
 	zerodhaPinPage.clickOnContinue();
 }
 
+@Test
+public void demo() {
+	System.out.println("demo");
+}
+
 }
