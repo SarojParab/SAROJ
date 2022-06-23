@@ -41,4 +41,9 @@ public void signUpLinkTest() {
 	ZerodhaLoginPage zerodhaLoginPage = new ZerodhaLoginPage(driver);
 	zerodhaLoginPage.clickOnSignUp();
 }
+
+@Test
+public void demo() {
+	System.out.println("new method added");
+}
 }
